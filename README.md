@@ -3,6 +3,9 @@
 
 As a newcomer to the cybersecurity field, I have gained extensive experience as an independent IT consultant, providing services to residential and small business clients for over two decades. 
 
+##Career Identity Statement
+I bridge the gap between physical and digital security by combining disciplined situational awareness with technical hardware expertise. My professional identity is defined by an analytical approach to pattern recognition and vulnerability management, allowing me to secure critical infrastructure through proactive threat detection and precise incident response.
+
 ## Objective
 
 My professional journey in computer information technology has cultivated a profound interest in cybersecurity. Consequently, I am eager to transition into this field, with a specific objective of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
