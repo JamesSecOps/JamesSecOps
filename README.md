@@ -3,7 +3,7 @@
 
 As a newcomer to the cybersecurity field, I have gained extensive experience as an independent IT consultant, providing services to residential and small business clients for over two decades. 
 
-##Career Identity Statement
+## Career Identity Statement
 I bridge the gap between physical and digital security by combining disciplined situational awareness with technical hardware expertise. My professional identity is defined by an analytical approach to pattern recognition and vulnerability management, allowing me to secure critical infrastructure through proactive threat detection and precise incident response.
 
 ## Objective
